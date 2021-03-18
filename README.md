@@ -1,6 +1,6 @@
 ### Responsive Restaurant website using Html, Css and JavaScript.
 
-![Restaurant_website](https://github.com/codersgyan/Responsive-restaurant-website/blob/master/restaurant-webpage.jpg)
+![Restaurant_website](https://fuzi-infra.github.io/hd/images/banners_02.jpg)
 
 
 #### Demo: https://fuzi-infra.github.io/hd/
